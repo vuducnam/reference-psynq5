@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vuducnam.github.io/reference-psynq5/sitemap.xml
